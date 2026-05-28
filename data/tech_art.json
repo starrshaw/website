@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tech-1779898201841",
+    "title": "GameLift Streams Web Application",
+    "description": "Sample cloud-streaming web app for game delivery patterns and technical integration reference.",
+    "repoUrl": "https://github.com/aws-samples/sample-gameliftstreams-web-application",
+    "thumbnail": ""
+  },
+  {
+    "id": "tech-1779897485370",
+    "title": "Planet Survival Game: Point and Click, Turn Based Strategy Game",
+    "description": "This game is a proof of concept for a 3D Point and Click, Turn Based Strategy Game.\n\nWe start by landing on planet environment tile, with limited fuel, our first mission is to recharge are ship with locating a natural power on the planet in the form of Power Crystals. The Local residence of this area might not like this and attempt to stop this energy collection grab. We must explore the planet and find resources. The Planet is made of of procedural crafted squares with a variety of enemy encounters, puzzles, and task to perform. If you run out of power completely, or attack and loose an enemy fight, the game ends.",
+    "repoUrl": "https://github.com/o3de/PlanetSurvivalGame",
+    "thumbnail": "web_images/admin_uploads/1779897449355_Sas-planet.gif"
+  },
+  {
+    "id": "tech-1779897245147",
+    "title": "O3DE Blender Tool",
+    "description": "The \"DccScriptingInterface\" (aka DCCsi) is a Gem for O3DE to extend and interface with dcc tools in the python ecosystem. This document contains the details of configuration of Maya as a DCC tool to be used with O3DE. This sets up Blender to be integrated with O3DE in a managed way, via the DCCsi. For more information about the DCCis please see the readme.md at the root of the Gem.",
+    "repoUrl": "https://github.com/o3de/o3de/tree/5bdb8cc3111d5064438780503f09e78ccc850738/Gems/AtomLyIntegration/TechnicalArt/DccScriptingInterface/Tools/DCC/Blender",
+    "thumbnail": ""
+  }
+]
